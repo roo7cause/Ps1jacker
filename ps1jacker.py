@@ -16,8 +16,8 @@ def gen_header():
 
 ------------------- Ps1jacker version v1.0.0 -------------------
 
-Created by: David "darkw1z" Kasabji
-Twitter: @darkw1z
+Created by: David / Netrunner
+X: @roo7cause
 Date Created: 11.08.2018
 
 Ps1jacker is a tool that generates a PowerShell payload for COM Hijacking.
